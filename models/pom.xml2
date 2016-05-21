@@ -9,7 +9,19 @@
 	<description>Object class definition for using the routing project</description>
 	<url>https://github.com/emend/mvn-rep</url>
 
+	<distributionManagement>
+		<snapshotRepository>
+			<id>olok-models-routing-snapshots</id>
+			<url>https://github.com/emend/mvn-rep/raw/master/releases</url>
+		</snapshotRepository>
 
+		<repository>
+			<id>olok-models-routing-releases</id>
+			<url>https://github.com/emend/mvn-rep/raw/master/releases</url>
+		</repository>
+	</distributionManagement>
+
+	
 	<build>
 		<plugins>
 		  <plugin>
