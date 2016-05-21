@@ -16,5 +16,5 @@ Uploaded: file://C:\work\dLiv\mvn-rep\models\target/mvn-rep/olok/models/olok-mod
 Uploading: file://C:\work\dLiv\mvn-rep\models\target/mvn-rep/olok/models/olok-models-routing/maven-metadata.xml
 Uploaded: file://C:\work\dLiv\mvn-rep\models\target/mvn-rep/olok/models/olok-models-routing/maven-metadata.xml (288 B at 12.2 KB/sec)
 
-### cp -D /target/mvn-rep/olok/models/olok-models-routing/<VERSION> ../releases/mvn-rep/olok/models/olok-models-routing/<VERSION>
+##### cp -D /target/mvn-rep/olok/models/olok-models-routing/\<VERSION\> ../releases/mvn-rep/olok/models/olok-models-routing/\<VERSION\>
 
